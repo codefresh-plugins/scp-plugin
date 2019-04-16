@@ -10,7 +10,7 @@ sources:
   - https://github.com/codefresh-io/scp-plugin
 maintainers:
   - name: Denys Voznyuk
-  email: denys@codefresh.io
+    email: denys@codefresh.io
 envs:
   - name: CF_SCP_HOST
     type: required
