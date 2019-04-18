@@ -4,7 +4,7 @@ tag: master
 version: 1.0.0
 description: Plugin to upload file or directory to remote machine using scp protocol.
 categories:
-- Utility
+- utility
 keywords:
 - scp
 sources:
