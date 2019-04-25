@@ -1,7 +1,7 @@
 steps:
   SCP:
     title: scp
-    image: codefresh/scp-plugin
+    image: codefreshplugins/scp-plugin
     environment:
       - CF_SCP_HOST=<your_host>
       - CF_SCP_USER_NAME=<name>
